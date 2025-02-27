@@ -1,0 +1,21 @@
+{
+    "types": "minecraft:blocks",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "conditions": [
+          {
+            "condition": "minecraft:survives_explosion"
+          }
+        ],
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "testcraft:calcite_tiles"
+          }
+        ],
+        "rolls": 1.0
+      }
+    ],
+  "random_sequence": "testcraft:blocks/calcite_tiles"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "testcraft:block/calcite_tiles"
+    }
+  }
+}
